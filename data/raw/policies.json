@@ -1,0 +1,8 @@
+{
+  "merchant_id": "MERCH-001",
+  "name": "Buildathon Bazaar",
+  "currency": "INR",
+  "default_return_days": 7,
+  "default_return_fee_paise": 0,
+  "free_shipping_threshold_paise": 50000
+}

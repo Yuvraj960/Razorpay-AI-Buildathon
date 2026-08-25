@@ -1,0 +1,38 @@
+{
+  "16": {
+    "city": "Chandigarh",
+    "min_days": 2,
+    "max_days": 4,
+    "fee_paise": 0
+  },
+  "11": {
+    "city": "Delhi",
+    "min_days": 1,
+    "max_days": 3,
+    "fee_paise": 0
+  },
+  "40": {
+    "city": "Mumbai",
+    "min_days": 3,
+    "max_days": 5,
+    "fee_paise": 4900
+  },
+  "56": {
+    "city": "Bangalore",
+    "min_days": 4,
+    "max_days": 6,
+    "fee_paise": 4900
+  },
+  "70": {
+    "city": "Kolkata",
+    "min_days": 4,
+    "max_days": 7,
+    "fee_paise": 5900
+  },
+  "60": {
+    "city": "Chennai",
+    "min_days": 4,
+    "max_days": 7,
+    "fee_paise": 5900
+  }
+}
