@@ -1,0 +1,12 @@
+# keep local state out of the build context — the seed command generates
+# everything at first boot
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+backend/data/
+data/
+frontend/node_modules/
+frontend/.next/
+.env
+.git
+.claude
