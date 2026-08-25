@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+out/
+
+# Env & data
+.env
+data/app.db
+data/raw/*.csv
+data/normalized/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+
+# AI
+
+AGENTS.md 
+CLAUDE.md
+.claude
